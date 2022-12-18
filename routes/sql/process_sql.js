@@ -8,7 +8,7 @@ let conexion= mysql.createConnection({
     database: 'universidad',
     //database: 'prueba',
     user: 'root',
-    password: 'anderson777'
+    password: 'Anderson777#'
 })
 conexion.connect((error)=>{
     if(error){
